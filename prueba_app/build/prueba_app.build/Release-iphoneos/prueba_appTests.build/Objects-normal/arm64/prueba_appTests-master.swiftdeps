@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
 options: "04b297b0b57b5d6048ba2480ed264516"
-build_time: [1617708099, 126512000]
+build_time: [1617717445, 842673000]
 inputs:
   "/Users/avantgarde/Documents/PROYECTOS/PRUEBA/prueba_app/prueba_appTests/prueba_appTests.swift": [9223372036, 854775807]
